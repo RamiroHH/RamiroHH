@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠 &nbsp;Pila Tecnológica
+## 🛠 &nbsp;Tecnologías
 
 #### 🔧 Lenguajes
 
