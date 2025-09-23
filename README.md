@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Programación;UTN%20Villa%20María;Apasionado%20por%20Python%20y%20Java;Desarrollando%20mis%20habilidades%20en%20Web;Siempre%20aprendiendo%20cosas%20nuevas%20🚀&center=true&width=500&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Programación;UTN%20Villa%20María;Apasionado%20por%20Python%20y%20Java;Desarrollando%20mis%20habilidades%20en%20Web;Siempre%20aprendiendo%20cosas%20nuevas%20&center=true&width=500&height=45"></a>
 </p>
 
 ---
