@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hola, soy Ramiro Hernández 👋
+  Hola, soy Ramiro Hernandez 👋
 </h3>
 
 <p align="center">
