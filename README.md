@@ -7,24 +7,24 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Programación;UTN%20Villa%20María;Apasionado%20por%20Python%20y%20Java;Desarrollando%20mis%20habilidades%20en%20Web;Siempre%20aprendiendo%20cosas%20nuevas%20&center=true&width=500&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programming%20Student;UTN%20Villa%20María;Passionate%20about%20Python%20and%20Java;Improving%20my%20Web%20Development%20Skills;Always%20learning%20new%20things%20&center=true&width=500&height=45"></a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-- 🎓 Estudiante de la Tecnicatura Universitaria en Programación (UTN).  
-- 🐍 Me especializo en **Python** y **Java**, aplicando Programación Orientada a Objetos y patrones simples de diseño.  
-- 🌐 Desarrollo proyectos web con **HTML, CSS y JavaScript**.  
-- 🗄️ Experimentando con **MongoDB** para proyectos con bases de datos.  
-- 🚀 Busco crecer como desarrollador y sumar experiencia en proyectos reales y remotos.  
+- 🎓 Student of the **University Technician in Programming** (UTN).  
+- 🐍 Focused on **Python** and **Java**, applying Object-Oriented Programming and simple design patterns.  
+- 🌐 Developing web projects with **HTML, CSS, and JavaScript**.  
+- 🗄️ Exploring **MongoDB** and relational databases through academic projects.  
+- 🚀 Motivated to grow as a developer, contribute to real projects, and collaborate in remote environments.  
 
 ---
 
-## 🛠 &nbsp;Tecnologías
+## 🛠 &nbsp;Technologies
 
-#### 🔧 Lenguajes
+#### 🔧 Languages
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,7 +35,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### 🛠️ Herramientas
+#### 🛠️ Tools
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 Estadísticas de mi perfil
+## 📊 GitHub Stats
 
 <div align=center>
 
@@ -53,7 +53,7 @@
 
 </div>
 
-### 💳 Resumen de Perfil
+### 💳 Profile Summary
 
 <div align=center>
   
@@ -61,12 +61,11 @@
   
 </div>
 
+### 📈 Activity
 
-### 📈 Actividad
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RamiroHH&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=RamiroHH&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Lenguajes más usados
+### 📊 Most Used Languages
 
 <div align=center>
   
@@ -76,7 +75,7 @@
 
 ---
 
-### 🔗 &nbsp;Contacto
+### 🔗 &nbsp;Contact
 
 <div align="center">
 
