@@ -7,40 +7,65 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programming%20Student;UTN%20Villa%20María;Passionate%20about%20Python%20and%20Java;Improving%20my%20Web%20Development%20Skills;Always%20learning%20new%20things%20&center=true&width=500&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20in%20progress;Spring%20Boot%20REST%20APIs;Java%20%7C%20SQL%20%7C%20MVC;Building%20scalable%20backend%20systems;Always%20learning%20new%20things&center=true&width=500&height=45">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Student of the **University Technician in Programming** (UTN).  
-- 🐍 Focused on **Python** and **Java**, applying Object-Oriented Programming and simple design patterns.  
-- 🌐 Developing web projects with **HTML, CSS, and JavaScript**.  
-- 🗄️ Exploring **MongoDB** and relational databases through academic projects.  
-- 🚀 Motivated to grow as a developer, contribute to real projects, and collaborate in remote environments.  
+- 🎓 Student of the **University Technician in Programming (UTN)**  
+- ☕ Focused on **Java Backend Development** with **Spring Boot**  
+- 🧩 Building **REST APIs** using layered architecture (Controller, Service, Repository)  
+- 🔄 Experience with **CRUD operations**, **DTOs**, validations and exception handling  
+- 🗄️ Working with **relational databases** (MySQL, SQL Server) and entity relationships  
+- ⚙️ Applying **clean code**, **separation of concerns** and business logic  
+- 🚀 Looking for my first opportunity as a **Backend Developer**
 
 ---
 
-## 🛠 &nbsp;Technologies
+## 🛠 Technologies
 
-#### 🔧 Languages
+### 🔧 Backend
 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
 
-#### 🌐 Web
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sqlserver-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🌐 Frontend (Basic)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### 🛠️ Tools
+### 🛠️ Tools & Practices
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/intellij-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## 🚀 Backend Skills
+
+- ✔️ REST APIs with Spring Boot  
+- ✔️ Layered architecture (Controller - Service - Repository)  
+- ✔️ Entity relationships (OneToMany, ManyToOne)  
+- ✔️ DTO pattern  
+- ✔️ Validations and global exception handling  
+- ✔️ CRUD (GET, POST, PUT, PATCH, DELETE)  
+- ✔️ Business logic implementation  
+- ✔️ Soft delete  
 
 ---
 
@@ -49,7 +74,6 @@
 <div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=RamiroHH&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
 
 </div>
 
@@ -75,7 +99,7 @@
 
 ---
 
-### 🔗 &nbsp;Contact
+### 🔗 Contact
 
 <div align="center">
 
