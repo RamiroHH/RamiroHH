@@ -8,26 +8,33 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20Jr.;Spring%20Boot%20%7C%20Spring%20Security%20%7C%20JWT;Java%20%7C%20React%2018%20%7C%20PostgreSQL;REST%20APIs%20%2B%20Fullstack%20Projects;Scrum%20%7C%20Jira%20%7C%20Team%20Collaboration&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer%20Jr.;Java%20%7C%20Spring%20Boot%20%7C%20Spring%20Security%20%7C%20JWT;React%2018%20%7C%20PostgreSQL%20%7C%20MySQL;Autor%20de%20ControlSafe;Scrum%20%7C%20Jira%20%7C%20Clean%20Code&center=true&width=520&height=45">
   </a>
+</p>
+
+<p align="center">
+  🌐 <a href="https://ramirohh.github.io"><b>Portfolio</b></a> ·
+  💼 <a href="https://www.linkedin.com/in/ramiro-hernandez-945546222/">LinkedIn</a> ·
+  ✉️ <a href="mailto:ramiroh.dev@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
 
-- 🎓 Almost graduated from **University Technician in Programming (UTN)**  — graduating July/August 2026
-- ☕ Specialized in **Java Backend** with **Spring Boot 3** and **Spring Security**
-- 🔐 Experience building **JWT authentication systems** with role-based access control
-- 🛒 Built a complete **fullstack e-commerce** system (Java + React 18) in a team using Scrum
-- 📧 Integration of **automatic email notifications** with JavaMailSender
-- 🗄️ Working with **PostgreSQL**, **MySQL** and **MongoDB**
-- ⚙️ Applying **Clean Code**, layered architecture and business logic
-- 🚀 Looking for my first opportunity as a **Backend Developer**
+- 🛠️ Desarrollador **Fullstack Jr.** con foco en **Java / Spring Boot** en el backend y **React** en el frontend
+- 🏆 Autor de **ControlSafe**, un sistema de gestión de vencimientos para comercios minoristas, desarrollado en solitario de punta a punta como Trabajo Final de carrera
+- 🎓 Tecnicatura Universitaria en Programación (UTN FRVM) — cursada completa
+- 🔐 Experiencia real construyendo autenticación **JWT** con roles y control de acceso
+- 🛒 También formé parte de **BodyPainting**, un e-commerce fullstack desarrollado en equipo bajo Scrum
+- 📧 Integración de notificaciones automáticas por email con JavaMailSender
+- 🗄️ Trabajo con **PostgreSQL**, **MySQL** y **MongoDB**
+- ⚙️ Aplico Clean Code, arquitectura en capas y buenas prácticas de diseño
+- 🚀 Buscando mi primera experiencia formal como desarrollador
 
 ---
 
-## 🛠 Technologies
+## 🛠 Tecnologías
 
 ### 🔧 Backend
 
@@ -43,17 +50,18 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 🗄️ Databases
+### 🗄️ Bases de datos
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Tools & Practices
+### 🛠️ Herramientas y prácticas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -63,33 +71,49 @@
 
 ---
 
-## 🚀 Backend Skills
+## 🚀 Skills backend
 
-- ✔️ REST APIs with Spring Boot 3
-- ✔️ JWT Authentication & role-based access control (ADMIN, VENDEDOR, CLIENTE)
-- ✔️ Spring Security configuration
-- ✔️ Layered architecture (Controller - Service - Repository)
-- ✔️ Entity relationships (OneToMany, ManyToOne, ManyToMany)
-- ✔️ DTO pattern & global exception handling
-- ✔️ Email notifications with JavaMailSender
-- ✔️ CRUD (GET, POST, PUT, PATCH, DELETE)
-- ✔️ Business logic & validations
-- ✔️ Agile development with Scrum & Jira
+- ✔️ APIs REST con Spring Boot 3
+- ✔️ Autenticación JWT y control de acceso basado en roles (ADMIN, OPERADOR / ADMIN, VENDEDOR, CLIENTE)
+- ✔️ Configuración de Spring Security
+- ✔️ Arquitectura en capas (Controller - Service - Repository - DTO)
+- ✔️ Relaciones entre entidades (OneToMany, ManyToOne, ManyToMany)
+- ✔️ Manejo global de excepciones y validaciones
+- ✔️ Notificaciones por email con JavaMailSender
+- ✔️ Schedulers y tareas automáticas
+- ✔️ Integración con APIs externas
+- ✔️ Desarrollo ágil con Scrum & Jira
 
 ---
 
-## 🏆 Main Project
+## 🏆 Proyecto principal
 
-### 🛒 [BodyPainting — E-commerce Fullstack](https://github.com/RamiroHH/BodyPainting)
+### 🔐 ControlSafe — Sistema de gestión de vencimientos
 
-> E-commerce system built in a team of 7 using **Scrum** across 3 sprints.
+> Trabajo Final de carrera. Diseño y desarrollo end-to-end **en solitario** — backend y frontend.
 
-- 🔐 JWT authentication with 3 roles: Admin, Vendedor, Cliente
-- 🛍️ Products, kits, cart, orders, discount coupons and shipping addresses
-- 📊 Stock reports, best-selling products report and intelligent restocking assistant
-- 📧 Automatic email notifications on order confirmation and status changes
-- ⚛️ Frontend in React 18 + Vite integrated with Spring Boot backend
-- 🗄️ PostgreSQL hosted on Render
+- 🔐 Autenticación y autorización con Spring Security + JWT, roles ADMIN/OPERADOR
+- ⏰ Scheduler automático diario que actualiza vencimientos y envía alertas por email con templates HTML personalizadas
+- 📷 Autocompletado de productos por código de barras vía API de Open Food Facts, con soporte de escáner USB
+- 📄 Generación de reportes PDF con filtros dinámicos
+- 🧾 Historial de trazabilidad de acciones por usuario y puesto de trabajo
+- ⚛️ Frontend en React 18 + Vite + Tailwind CSS
+- 🔒 Repositorio privado por el momento — código disponible a pedido
+
+---
+
+## 🛒 Otro proyecto destacado
+
+### [BodyPainting — E-commerce Fullstack](https://github.com/RamiroHH/BodyPainting)
+
+> Sistema de e-commerce desarrollado en equipo bajo **Scrum**, en 3 sprints.
+
+- 🔐 Autenticación JWT con 3 roles: Admin, Vendedor, Cliente
+- 🛍️ Productos, kits, carrito, pedidos, cupones de descuento
+- 📊 Reportes de stock y asistente de reposición inteligente
+- 📧 Notificaciones automáticas por email
+- ⚛️ Frontend en React 18 + Vite integrado con backend Spring Boot
+- 🗄️ PostgreSQL
 
 ---
 
@@ -101,7 +125,7 @@
 
 </div>
 
-### 💳 Profile Summary
+### 💳 Resumen de perfil
 
 <div align=center>
   
@@ -109,11 +133,11 @@
   
 </div>
 
-### 📈 Activity
+### 📈 Actividad
 
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RamiroHH&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Most Used Languages
+### 📊 Lenguajes más usados
 
 <div align=center>
   
@@ -123,9 +147,13 @@
 
 ---
 
-### 🔗 Contact
+### 🔗 Contacto
 
 <div align="center">
+
+<a href="https://ramirohh.github.io">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6FCF97?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 <a href="mailto:ramiroh.dev@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
