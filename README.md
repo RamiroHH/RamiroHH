@@ -23,12 +23,13 @@
 ## 👨‍💻 Sobre mí
 
 - 🛠️ Desarrollador **Fullstack Jr.** con foco en **Java / Spring Boot** en el backend y **React** en el frontend
-- 🏆 Autor de **ControlSafe**, un sistema de gestión de vencimientos para comercios minoristas, desarrollado en solitario de punta a punta como Trabajo Final de carrera
-- 🎓 Tecnicatura Universitaria en Programación (UTN FRVM) — cursada completa
-- 🔐 Experiencia real construyendo autenticación **JWT** con roles y control de acceso
+- 🎓 **Técnico Universitario en Programación** (UTN FRVM) — egresado en septiembre 2026, Trabajo Final con nota 10/10
+- 🏆 Autor de **ControlSafe**, sistema de gestión de vencimientos para comercios minoristas, desarrollado en solitario de punta a punta como Trabajo Final de carrera
+- 🚀 **En producción real**: ControlSafe está en uso activo en la sucursal 175 de Farmacity (Villa María), validado con 253 productos y 313 vencimientos reales
+- 🔐 Experiencia real construyendo autenticación **JWT** con **Spring Security**, roles y control de acceso
+- ☁️ Deploy en la nube con **Docker**, **Railway** y **Vercel**, con CI/CD automático desde GitHub
 - 🛒 También formé parte de **BodyPainting**, un e-commerce fullstack desarrollado en equipo bajo Scrum
-- 📧 Integración de notificaciones automáticas por email con JavaMailSender
-- 🗄️ Trabajo con **PostgreSQL**, **MySQL** y **MongoDB**
+- 🗄️ Trabajo con **MySQL**, **PostgreSQL** y **MongoDB**
 - ⚙️ Aplico Clean Code, arquitectura en capas y buenas prácticas de diseño
 - 🚀 Buscando mi primera experiencia formal como desarrollador
 
@@ -57,9 +58,15 @@
 
 ### 🗄️ Bases de datos
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Deploy & DevOps
+
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🛠️ Herramientas y prácticas
 
@@ -73,15 +80,17 @@
 
 ## 🚀 Skills backend
 
-- ✔️ APIs REST con Spring Boot 3
+- ✔️ APIs REST con Spring Boot
 - ✔️ Autenticación JWT y control de acceso basado en roles (ADMIN, OPERADOR / ADMIN, VENDEDOR, CLIENTE)
 - ✔️ Configuración de Spring Security
 - ✔️ Arquitectura en capas (Controller - Service - Repository - DTO)
 - ✔️ Relaciones entre entidades (OneToMany, ManyToOne, ManyToMany)
 - ✔️ Manejo global de excepciones y validaciones
-- ✔️ Notificaciones por email con JavaMailSender
+- ✔️ Notificaciones por email (SendGrid, JavaMailSender)
+- ✔️ Generación de reportes PDF (iText)
 - ✔️ Schedulers y tareas automáticas
 - ✔️ Integración con APIs externas
+- ✔️ Deploy con Docker, Railway y Vercel, CI/CD desde GitHub
 - ✔️ Desarrollo ágil con Scrum & Jira
 
 ---
@@ -90,15 +99,18 @@
 
 ### 🔐 ControlSafe — Sistema de gestión de vencimientos
 
-> Trabajo Final de carrera. Diseño y desarrollo end-to-end **en solitario** — backend y frontend.
+> Trabajo Final de carrera (UTN FRVM, nota 10/10). Diseño y desarrollo end-to-end **en solitario** — backend y frontend.
 
-- 🔐 Autenticación y autorización con Spring Security + JWT, roles ADMIN/OPERADOR
-- ⏰ Scheduler automático diario que actualiza vencimientos y envía alertas por email con templates HTML personalizadas
+**En producción y en uso real:** activo en la sucursal 175 de Farmacity (Villa María), con 253 productos y 313 vencimientos reales gestionados. Los encargados evalúan proponerlo a nivel franquicia en Córdoba.
+
+- 🔐 Autenticación y autorización con Spring Security + JWT (jjwt), roles ADMIN/OPERADOR, credenciales por variables de entorno
+- ⏰ Scheduler automático diario que actualiza vencimientos y envía alertas por email (SendGrid) con templates personalizadas
 - 📷 Autocompletado de productos por código de barras vía API de Open Food Facts, con soporte de escáner USB
-- 📄 Generación de reportes PDF con filtros dinámicos
+- 📄 Generación de reportes PDF con filtros dinámicos (iText)
 - 🧾 Historial de trazabilidad de acciones por usuario y puesto de trabajo
-- ⚛️ Frontend en React 18 + Vite + Tailwind CSS
-- 🔒 Repositorio privado por el momento — código disponible a pedido
+- ⚛️ Frontend en React 18 + Vite + Tailwind CSS + Axios + React Router DOM
+- ☁️ Backend: Java 21, Spring Boot 4, MySQL — Deploy con Docker en Railway (CI/CD desde GitHub), frontend en Vercel
+- 🔒 Repositorios privados — demo pública en [controlsafe.vercel.app](https://controlsafe.vercel.app), código disponible a pedido en entrevista
 
 ---
 
