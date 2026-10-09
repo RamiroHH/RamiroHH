@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer%20Jr.;Java%20%7C%20Spring%20Boot%20%7C%20Spring%20Security%20%7C%20JWT;React%2018%20%7C%20TypeScript%20%7C%20MySQL;Author%20of%20ControlSafe%20(in%20production);Scrum%20%7C%20Jira%20%7C%20Clean%20Code&center=true&width=520&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Java%20%7C%20Spring%20Boot%20%7C%20Spring%20Security%20%7C%20JWT;React%2018%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20MySQL;Author%20of%20ControlSafe%20(in%20production);Scrum%20%7C%20Jira%20%7C%20Clean%20Code&center=true&width=520&height=45">
   </a>
 </p>
 
@@ -22,11 +22,11 @@
 
 ## 👨‍💻 About me
 
-- 🛠️ **Fullstack Jr. Developer** focused on **Java / Spring Boot** on the backend and **React** on the frontend
+- 🛠️ **Fullstack Developer** focused on **Java / Spring Boot** on the backend and **React / Next.js** on the frontend
 - 🎓 **University Technician in Programming** (UTN FRVM, Argentina) — graduated September 2026, capstone thesis graded 10/10
 - 🏆 Author of **ControlSafe**, an expiration-date management system for retail stores, built solo end-to-end as my capstone thesis
 - 🚀 **Live in production**: ControlSafe is actively used at Farmacity branch 175 (Villa María, Argentina), validated with 253 real products and 313 real expiration records
-- 💼 Currently freelancing as **QA & Frontend Developer** on [MedOS](https://medos.mx), a medical practice management platform (TypeScript, AWS serverless)
+- 💼 Currently freelancing: **QA & Frontend Developer** on [MedOS](https://medos.mx) (TypeScript, AWS serverless) and **web developer** for a law office in Phoenix, Arizona (Next.js)
 - 🔐 Real experience building **JWT** authentication with **Spring Security**, role-based access control
 - ☁️ Cloud deployment with **Docker**, **Railway** and **Vercel**, with automatic CI/CD from GitHub
 - 🛒 Also part of **BodyPainting**, a fullstack e-commerce built in a team using Scrum
@@ -51,6 +51,7 @@
 ### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -69,6 +70,7 @@
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
@@ -119,6 +121,17 @@
 ---
 
 ## 💼 Current freelance work
+
+### Conexión Legal Arizona — Web Developer & Digital Content
+
+> Website for a personal-injury law office in Phoenix, Arizona, serving the Spanish-speaking community. Next.js, TypeScript, Tailwind CSS.
+
+- 🧱 Designed and built the site end to end: dynamic case pages (`/casos/[caso]`) generated from a single data file, Bento-grid dark UI with the client's brand system
+- 💬 Floating WhatsApp call-to-action (IntersectionObserver) and a reusable contact-link helper
+- ⚡ Image optimization with `next/image`, per-page metadata/SEO, accessibility (contrast, focus states, ARIA, reduced motion) and mobile-first responsive design
+- 🌐 Domain and DNS (Namecheap), business email on Microsoft 365, Netlify deployments from GitHub branches
+- 🎬 Brand graphics, social media and AI-avatar videos, with iterative review rounds alongside the client
+- 🔒 Private repository — walkthrough available on request
 
 ### [MedOS](https://medos.mx) — QA & Frontend Developer
 
