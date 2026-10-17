@@ -14,6 +14,7 @@
 
 <p align="center">
   🌐 <a href="https://ramirohh.github.io"><b>Portfolio</b></a> ·
+  🌐 <a href="https://www.conexionlegalarizona.com">Live client site</a> ·
   💼 <a href="https://www.linkedin.com/in/ramiro-hernandez-945546222/">LinkedIn</a> ·
   ✉️ <a href="mailto:ramiroh.dev@gmail.com">Email</a>
 </p>
@@ -26,13 +27,13 @@
 - 🎓 **University Technician in Programming** (UTN FRVM, Argentina) — graduated September 2026, capstone thesis graded 10/10
 - 🏆 Author of **ControlSafe**, an expiration-date management system for retail stores, built solo end-to-end as my capstone thesis
 - 🚀 **Live in production**: ControlSafe is actively used at Farmacity branch 175 (Villa María, Argentina), validated with 253 real products and 313 real expiration records
-- 💼 Currently freelancing: **QA & Frontend Developer** on [MedOS](https://medos.mx) (TypeScript, AWS serverless) and **web developer** for a law office in Phoenix, Arizona (Next.js)
+- 💼 Currently freelancing: **QA & Frontend Developer** on [MedOS](https://medos.mx) (TypeScript, AWS serverless) and **web developer** of [conexionlegalarizona.com](https://www.conexionlegalarizona.com), a live site for a law office in Phoenix, Arizona (Next.js, TypeScript)
 - 🔐 Real experience building **JWT** authentication with **Spring Security**, role-based access control
 - ☁️ Cloud deployment with **Docker**, **Railway** and **Vercel**, with automatic CI/CD from GitHub
 - 🛒 Also part of **BodyPainting**, a fullstack e-commerce built in a team using Scrum
 - 🗄️ Experience with **MySQL**, **PostgreSQL** and **MongoDB**
 - ⚙️ Applying Clean Code, layered architecture and good design practices
-- 🚀 Looking for my first formal opportunity as a developer
+- 🌎 Spanish (native) · English (B2, technical) — open to **remote** roles and my first formal opportunity as a developer
 
 ---
 
@@ -107,7 +108,7 @@
 
 > Capstone thesis (UTN FRVM, grade 10/10). Designed and built end-to-end **solo** — backend and frontend.
 
-**Live in production:** actively used at Farmacity branch 175 (Villa María, Argentina), with 253 real products and 313 real expiration records managed. Branch managers are evaluating rolling it out at a franchise level in Córdoba.
+**Live in production:** actively used at Farmacity branch 175 (Villa María, Argentina), with 253 real products and 313 real expiration records managed. Being improved continuously from real user feedback.
 
 - 🔐 Authentication and authorization with Spring Security + JWT (jjwt), ADMIN/OPERADOR roles, credentials via environment variables
 - ⏰ Daily automatic scheduler that updates expiration statuses and sends email alerts (SendGrid) with custom templates
@@ -122,16 +123,16 @@
 
 ## 💼 Current freelance work
 
-### Conexión Legal Arizona — Web Developer & Digital Content
+### [Conexión Legal Arizona](https://www.conexionlegalarizona.com) — Web Developer
 
-> Website for a personal-injury law office in Phoenix, Arizona, serving the Spanish-speaking community. Next.js, TypeScript, Tailwind CSS.
+> Live website for a personal-injury law office in Phoenix, Arizona, serving the Spanish-speaking community. **Next.js 16 · React · TypeScript · Tailwind CSS v4 · Netlify** — 🔗 [conexionlegalarizona.com](https://www.conexionlegalarizona.com)
 
-- 🧱 Designed and built the site end to end: dynamic case pages (`/casos/[caso]`) generated from a single data file, Bento-grid dark UI with the client's brand system
+- 🧱 Designed and built the site end to end: dynamic case pages (`/casos/[caso]`) generated from a single data file, Bento-grid dark UI based on the client's brand system, framer-motion animations
 - 💬 Floating WhatsApp call-to-action (IntersectionObserver) and a reusable contact-link helper
-- ⚡ Image optimization with `next/image`, per-page metadata/SEO, accessibility (contrast, focus states, ARIA, reduced motion) and mobile-first responsive design
+- ⚡ Image optimization with `next/image`, per-page metadata/SEO, sitemap and Google Search Console, accessibility (contrast, focus states, ARIA, reduced motion) and mobile-first responsive design
 - 🌐 Domain and DNS (Namecheap), business email on Microsoft 365, Netlify deployments from GitHub branches
-- 🎬 Brand graphics, social media and AI-avatar videos, with iterative review rounds alongside the client
-- 🔒 Private repository — walkthrough available on request
+- 🤝 Iterative review rounds directly with the client
+- 🔒 Private repository — code walkthrough available on request
 
 ### [MedOS](https://medos.mx) — QA & Frontend Developer
 
